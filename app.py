@@ -31,6 +31,9 @@ authenticator = stauth.Authenticate(
     # config['preauthorized']
 )
 
+# disbale browser usage stats
+st.set_option('browser.gatherUsageStats', False) 
+
 # Set Session State
 # if 'key_name' not in st.session_state:
 #     st.session_state.key = uuid.uuid4().hex

@@ -2,6 +2,6 @@
 __pycache__/
 *.log
 tools/
-*sqlite
+# *sqlite
 temp*
 notebook.ipynb
