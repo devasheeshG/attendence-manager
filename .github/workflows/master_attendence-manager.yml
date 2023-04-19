@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'attendence-manager'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A31B95F3868E4FBDBEC95E860D149113 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B15D3388F05A44EEBBAA6AB49FAAA916 }}
