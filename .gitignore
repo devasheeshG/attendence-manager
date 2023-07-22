@@ -5,3 +5,4 @@ tools/
 # *sqlite
 temp*
 notebook.ipynb
+users.yaml
