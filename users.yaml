@@ -1,35 +1,10 @@
 credentials:
   usernames:
-    devasheesh:
-      name: Devasheesh Mishra
-      password: $2b$12$ipat9S5LdIaEK28rQhxzkOgT7sowhEW7tgxmEk/iCwtF/QUeRFTX6
-      evarsity_username: dm0359
-      evarsity_password: Mymail@06
-    swarnim:
-      name: Swarnim Burnwal
-      password: $2b$12$ipat9S5LdIaEK28rQhxzkOgT7sowhEW7tgxmEk/iCwtF/QUeRFTX6
-      evarsity_username: sb6476
-      evarsity_password: mera_SRM14
-    krishna:
-      name: Krishna Bhardwaj
-      password: $2b$12$ipat9S5LdIaEK28rQhxzkOgT7sowhEW7tgxmEk/iCwtF/QUeRFTX6
-      evarsity_username: kk2626
-      evarsity_password: Tatatiago@123
-    aarush:
-      name: Aarush Dwivedi
-      password: $2b$12$ipat9S5LdIaEK28rQhxzkOgT7sowhEW7tgxmEk/iCwtF/QUeRFTX6
-      evarsity_username: ad0696
-      evarsity_password: Srm@2004ismypassword
-    # sahil:
-    #   name: Sahil Sharma
-    #   password: $2b$12$ipat9S5LdIaEK28rQhxzkOgT7sowhEW7tgxmEk/iCwtF/QUeRFTX6
-    #   evarsity_username: ss1135
-    #   evarsity_password: Deepak@123
-    dhruv:
-      name: Dhruv Podina
-      password: $2b$12$ipat9S5LdIaEK28rQhxzkOgT7sowhEW7tgxmEk/iCwtF/QUeRFTX6
-      evarsity_username: dp4310
-      evarsity_password: Khushi@123
+    __NAME__:
+      name: __FULL_NAME__
+      password: __PASSWORD_HASH__
+      evarsity_username: __USERNAME__
+      evarsity_password: __PASSWORD__
 
 cookie:
   expiry_days: 30
